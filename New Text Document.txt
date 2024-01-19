@@ -1,3 +1,0 @@
-<img src="https://github.com/MrDataAnalyst/Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard/raw/main/images/Tesla_Plot.png" alt="Graph 1" width="500">
-
-<img src="https://github.com/YourUsername/YourRepository/raw/main/images/graph1.png" alt="Graph 1" width="500">
